@@ -9,10 +9,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" /> </p>
+  <img src="https://skillicons.dev/icons?i=python, html, css" /> </p>
 
 ---
 
-## 📊 My Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkkoN7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
