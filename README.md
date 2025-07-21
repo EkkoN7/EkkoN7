@@ -9,8 +9,8 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" /> </p>
-<img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/images/pygame_logo.png?raw=true" alt="Pygame" width="80"/>
-
+  <img src="https://skillicons.dev/icons?i=python" /> 
+  <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/pygame_logo.png?raw=true" alt="Pygame" width="80"/>
+</p>
 ---
 
