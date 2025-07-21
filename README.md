@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello everyone 👋
 
-<!--
-**EkkoN7/EkkoN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on fundamental concepts in programming security tools.
+- 📚 All my projects are documented in my **[Portfolio Repository](https://github.com/EkkoN7/Portfolio)**. Feel free to explore them, and connect with me for more details or collaboration!
+- 📫 You can reach me at: [denis.durban@outlook.de](mailto:denis.durban@outlook.de)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,linux" /> </p>
+
+---
+
+## 📊 My Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EkkoN7&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
