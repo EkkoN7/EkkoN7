@@ -1,8 +1,8 @@
 ## Hello everyone 👋
 
-- 🔭 I’m currently working on fundamental concepts in programming security tools. Besides this, I'm also building a simple game with Pygame and collaborating with a friend on Android apps within the **[HiveNex](https://github.com/HiveNex/HiveHub)** organization.
-- 📚 All my projects are documented in my **[Portfolio Repository](https://github.com/EkkoN7/Portfolio)**. Feel free to explore them, and connect with me for more details or collaboration!
-- 📫 You can reach me at: [denis.durban@outlook.de](mailto:denis.durban@outlook.de)
+- I'm passionate about developing security-focused programs. When I'm not diving into cybersecurity, you'll often find me crafting simple games using Pygame. I also love to explore and experiment with Machine Learning and AI, always looking for ways to integrate them for better, smarter applications. Plus, I collaborate with a friend on app development at **[HiveNex](https://github.com/HiveNex/HiveHub)** organization.
+- All my projects are documented in my **[Portfolio Repository](https://github.com/EkkoN7/Portfolio)**. Feel free to explore them, and connect with me for more details or collaboration!
+- You can reach me at: [denis.durban@outlook.de](mailto:denis.durban@outlook.de)
 
 ## 🛠️ Languages and Tools
 
