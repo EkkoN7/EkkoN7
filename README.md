@@ -9,6 +9,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi" /> 
   <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/pygame_logo.png?raw=true" alt="Pygame" width="80"/>
+  <img src="https://www.codewars.com/users/EkkoN7/badges/small" />
 </p>
-<img src="https://www.codewars.com/users/EkkoN7/badges/small" />
+
 
