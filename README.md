@@ -5,7 +5,11 @@
 - You can reach me at: [denis.durban@outlook.de](mailto:denis.durban@outlook.de)
 
 ## 🛠️ Languages and Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" /> 
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+## 🚀 Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
