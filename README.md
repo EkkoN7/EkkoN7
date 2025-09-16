@@ -13,3 +13,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
+
+## 💻 My Codewars Progress
+<p align="center">
+  <img src="https://www.codewars.com/users/EkkoN7/badges/large" />
+</p>
+
+
