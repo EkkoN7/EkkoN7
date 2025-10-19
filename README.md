@@ -11,8 +11,10 @@
 
 ## 🚀 Learning
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" /> 
   <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/pygame_logo.png?raw=true" alt="Pygame" width="80"/>
 </p>
+
 
 ## 💻 My Codewars Progress
 <p align="center">
