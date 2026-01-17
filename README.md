@@ -14,13 +14,13 @@ Feel free to explore my work and connect for collaboration!
 **Core Skills**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://img.shields.io/badge/MS_Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" height="48" />
+  <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/ms_power_automate_logo.png?raw=true" alt="Power Automate" width="60"/>
 </p>
 
 **Currently Learning**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" height="48" />
+  <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/n8n_logo.png?raw=true" alt="N8N" width="60"/>
 </p>
 
 ---
