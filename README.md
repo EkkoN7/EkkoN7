@@ -26,12 +26,5 @@ Feel free to explore my work and connect for collaboration!
 
 ---
 
-## My Codewars Progress
-<p align="center">
-  <img src="https://www.codewars.com/users/EkkoN7/badges/large" />
-</p>
-
----
-
 ## Contact Me
 * **Email:** [denis.durban@outlook.de](mailto:denis.durban@outlook.de)
