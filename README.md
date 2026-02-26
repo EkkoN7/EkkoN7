@@ -1,7 +1,7 @@
 # Hello everyone,
 
 - **Cybersecurity Student** & working full-time in the field.
-- My primary goal is to **master Python** for security and automation.
+- My goal is to **master Python**.
 - Interested in building **Cybersecurity Tools** and creating **Automations**.
 - Fedora Linux Enthusiast exploring the world of Linux GUI Development.
 - All my projects are documented in my **[Portfolio Repository](https://github.com/EkkoN7/Portfolio)**. 
