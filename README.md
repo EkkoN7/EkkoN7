@@ -14,8 +14,8 @@ Feel free to explore my work and connect for collaboration!
 
 **Core Skills**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/ms_power_automate_logo.png?raw=true" alt="Power Automate" width="60"/>
+  <img src="https://skillicons.dev/icons?i=python,linux" alt="Skills" />
+  <img src="https://github.com/EkkoN7/EkkoN7/blob/main/assets/ms_power_automate_logo.png?raw=true" alt="Power Automate" width="50" style="vertical-align: middle; margin-left: 5px;" />
 </p>
 
 **Currently Learning**
